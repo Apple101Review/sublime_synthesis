@@ -1,0 +1,17 @@
+Title: About
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+## Hi, I'm Shawn.
+I am a freelance software developer and computer enthusiast.
+I also like to build robots, take photos, and write my book.
+<div class="portrait">(image: shawn.jpg width: 270 height: 270 alt: Me, Shawn Schwartz.)</div>
+I started [Sublime Synthesis](http://www.sublimesynthesis.com) as a project for branding my software projects. I formally ran a review website called [Apple101Review](http://www.apple101review.com), which I started 3 years ago. I have since moved on to real software development and website design and programming. Some of the real life applications of software engineering that I have worked on is Java Programming for the [FIRST Robotics Competition](http://www.usfirst.org).
+
+
+I have years of experience in web design and programming, and graphic design. I also have visual programming experience with the [Gamesalad Game Engine](http://www.gamesalad.com). I am currently a registered paid developer with Apple and am enhancing my Objective-C and iPhone SDK Programming.
+
+You can [download my résumé](http://www.sublimesynthesis.com/) if you want. Here are [some of my projects](http://www.sublimesynthesis.com/projects). Here are nt **favorite songs** on my [Spotify Playlist](http://www.sublimesynthesis.com). _I am looking to **design websites** for you if you want one._ Please feel free to [contact me](http://sublimesynthesis.com) if you want to say hi or would like to use my services.
+</div>

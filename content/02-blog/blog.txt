@@ -1,0 +1,8 @@
+Title: Blog
+----
+Text: 
+<!-- -->
+<div class="post" markdown="1">
+This is a nice demo blog.
+**Test**
+</div>

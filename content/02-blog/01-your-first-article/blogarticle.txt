@@ -1,0 +1,36 @@
+Title: This is my first Article.
+----
+Date: 01/25/2013
+----
+Text: 
+<!-- NOTE: Replace emphasis with italics in blockquotes. -->
+<div class="post" markdown="1">
+
+## Tips & Tricks
+### Posted on January 20, 2013
+
+This website now uses [Markdown](http://daringfireball.net/projects/markdown/) to style content. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid HTML. You should check out the [Basics](http://daringfireball.net/projects/markdown/basics) to get a better feel of how to use this. If you'd like, you can also check out the full [Syntax](http://daringfireball.net/projects/markdown/syntax).
+
+Code blocks may be styled simply by indenting the block of code. For example:
+
+	- (void)showAlarmView:(UISwipeGestureRecognizer *)gestureRecognizer withSomethingElse:(NSString *)aString {
+		if (gestureRecognizer.state == UIGestureRecognizerStateEnded) {
+			[UIView beginAnimations:@"showAlarmView" context:nil];
+			[UIView setAnimationDuration:0.25];
+			[UIView setAnimationCurve:UIViewAnimationCurveEaseOut];
+			
+			[self.clockView setAlpha:0.75f];
+			[self.clockView setCenter:CGPointMake(160.0f, 140.0f)];
+			
+			[UIView commitAnimations];
+		}
+	}
+
+This paragraph uses Markdown. _This sentence is emphasized._ Pretty cool, right? **This one should be bold.** Awesome. An extra `newline` is required to separate paragraphs, so they are treated as such. Did you notice that piece of code? Just wrap the single line of code using the `` ` `` (backtick) character. Anything in quotation marks should be surrounded with the `&ldquo;` (left double-quote) and `&rdquo;` (right double-quote) entities rather than the plain and boring `"` (double-quote) character. Blockquotes may be styled by adding a `>` (greater than sign) to the beginning of each line in the quote:
+
+> Real artists ship.
+> — Steve Jobs
+
+I hope you found this post informative. Goodbye.
+
+</div>

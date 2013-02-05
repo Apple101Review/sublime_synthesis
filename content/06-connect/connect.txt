@@ -1,0 +1,14 @@
+Title: Connect
+----
+Text:
+
+<!-- -->
+<div class="post center">
+
+<div class="social"><a href="http://www.twitter.com/team4element">(image: Twitter.png class: social alt: Follow us on Twitter)<div>Twitter</div></a></div>
+<div class="social"><a href="http://www.facebook.com/team4element">(image: Facebook.png class: social alt: Like us on Facebook)<div>Facebook</div></a></div>
+<div class="social"><a href="http://www.youtube.com/team4element">(image: YouTube.png class: social alt: Subscribe to us on YouTube)<div>YouTube</div></a></div>
+<div class="social"><a href="http://www.instagram.com/team4element">(image: Instagram.png class: social alt: Follow us on Instagram)<div>Instagram</div></a></div>
+<div class="social"><a href="http://www.github.com/team4element">(image: GitHub.png class: social alt: Follow us on GitHub)<div>GitHub</div></a></div>
+
+</div>

@@ -1,0 +1,9 @@
+Title: Sublime Synthesis
+----
+Author: Shawn Schwartz
+----
+Description: Beautiful and minimal software development.
+----
+Keywords: sublime, synthesis, apple101review, software, iOS, apps, simple, minimal, team4element
+----
+Copyright: Copyright &copy; 2013 Sublime Synthesis
